@@ -1,0 +1,139 @@
+body {
+  background: rgba(231, 231, 231, 1)
+ }
+
+
+
+.container, .container-fluid {
+  width: 100%;
+  max-width: 960px;
+  min-width: 450px;
+  margin: 0 auto;
+  clear: both;
+  font-size: 18px;
+  line-height:34px;
+  color: #777;
+
+}
+
+
+
+ h2, h3 {
+  font-family: 'Abel', sans-serif;
+  color: #94b8b8;
+  font-weight: 700;
+}
+
+img {
+	width: 244px;
+	height: 244px;
+}
+
+
+.navbar { 
+background: #ffd7b3
+ }
+
+h1 {
+    font-family: 'Patua One', cursive;
+      color: #94b8b8;
+
+}
+
+.navbar-brand {
+
+  font-family: 'Patua One', cursive;
+  font-size: 28px;
+}
+
+a .navbar-brand {
+  font-family: 'Patua One', cursive;
+  color: white;
+
+}
+
+
+#main-content {
+	float: left;
+}
+
+.panel-body {
+    border: 1px #94b8b8 solid;
+}
+
+
+
+ #footer {
+	clear: both;
+  position-bottom: absolute;
+  margin-bottom: -50px;
+  border-top: 8px #ffbf80 solid;
+  padding: 30px 0px 0px 0px;
+  text-align: center;
+  background: #666666;
+  color: #fff;
+    width: 100%;
+    max-width: 2000px;
+   text-align: center;
+   font-size: 15px;
+   line-height: 80px;
+}
+
+
+ .portf {
+  width: 244px;
+  height: 244px;
+  position: relative;
+  float: left;
+  margin: 20px 0px 15px;
+  overflow: auto;
+}
+
+.portf: nth-child(even) {
+  margin-right: 40px;
+}
+
+.img-responsive {
+width:244px;
+ height:184px;
+  border: 0 none;
+
+
+
+ }
+
+#portf {
+width:100%;
+height: auto;
+ position: static;
+ margin-left: 20px;
+
+}
+
+
+#portf h3 {
+  border-bottom: 0;
+  width: 244px;
+  background: #94b8b8;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  bottom: 15%;
+  padding:5%;
+  line-height: 40px;
+  margin-bottom: 0;
+  font-weight: 300;
+    margin-top: 0;
+
+}
+ 
+
+
+#submit {
+  background: #94b8b8;
+  border: 0 none;
+  margin-top: 20px;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px 30px;
+  cursor:pointer;
