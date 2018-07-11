@@ -119,7 +119,7 @@ height: auto;
   text-align: center;
   position: relative;
   bottom: 15%;
-  padding:5%;
+  padding:2%;
   line-height: 40px;
   margin-bottom: 0;
   font-weight: 300;
@@ -128,12 +128,3 @@ height: auto;
 }
  
 
-
-#submit {
-  background: #94b8b8;
-  border: 0 none;
-  margin-top: 20px;
-  color: #fff;
-  font-size: 18px;
-  padding: 10px 30px;
-  cursor:pointer;
