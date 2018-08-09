@@ -84,6 +84,7 @@ a .navbar-brand {
   float: left;
   margin: 20px 0px 15px 40px;
   overflow: auto;
+
 }
 
 .portf: nth-child(even) {
@@ -93,7 +94,7 @@ a .navbar-brand {
 .img-responsive {
 width:244px;
  height:184px;
-  border: 0 none;
+border: #ffd7b3 solid 3px;
  }
 
 
